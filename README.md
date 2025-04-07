@@ -8,8 +8,6 @@ Tyrone ➜ Tyler JSON Converter is a lightweight and user-friendly desktop tool 
 
 📦 Automatic Cleanup: After conversion, the original JSON files are deleted.
 
-📊 Progress Logging: Live progress feedback is shown during batch conversions.
-
 💾 Output Control: Converted files are saved in the original location.
 
 
